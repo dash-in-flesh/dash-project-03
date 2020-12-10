@@ -1,0 +1,81 @@
+.magic-button {
+    display: block;
+    width: 200px;
+    border: 1px solid transparent;
+    background: transparent;
+    margin: 0 auto;
+    color: black;
+    border-radius: 0;
+}
+
+.magic-button:hover,  .magic-button:focus, .magic-button:active{
+    border: 1px solid transparent !important;
+    background: transparent !important;
+    color: black;
+    border-radius: 0;
+    box-shadow: none !important;
+}
+
+#show-more-btn {
+    color: #8baded;
+}
+
+#show-more-btn:hover {
+    color: #0055f4;
+    border-bottom: 1px solid #0055f4 !important;
+    cursor: pointer;
+}
+
+#back-home-btn {
+    color: #8a8a8a;
+}
+
+#back-home-btn:hover {
+    color: #000000;
+    border-bottom: 1px solid #000000 !important;
+    cursor: pointer;
+}
+
+
+
+.movie-card {
+    display:flex; 
+    width: 100%;
+    height:170px; 
+    padding:10px;     
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    margin-bottom: 20px;
+}
+
+
+.movie-card:hover {
+    cursor: pointer;
+    -webkit-box-shadow: 5px 5px 12px -1px rgba(0,0,0,0.46); 
+    box-shadow: 5px 5px 12px -1px rgba(0,0,0,0.46);
+}
+
+
+.clickable-card {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+
+.detail-meta {
+    margin-bottom: 6px;
+}
+
+.detail-meta span {
+    font-weight: bold;
+}
+
+.review {
+    padding: 10px;
+    border-top: 1px solid lightgray;
+}
+
+.review p{
+    margin-bottom: 0;
+}
