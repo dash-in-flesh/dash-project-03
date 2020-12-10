@@ -1,1 +1,1 @@
-# dash-project-03
+# C&Z Movie Hub (dash-project-03)
