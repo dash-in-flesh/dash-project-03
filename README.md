@@ -10,10 +10,22 @@ In order to offer movie lovers a more straightforward user experience, Chris and
 We hope you enjoy our web application. More importantly, we hope you can spend your time only on what you want to contribute to.
 
 ### Project Overview:
+
+#### Page 1
 ![page1-1](misc/page1-1.png)
+![page1-2](misc/page1-2.png)
+
+#### Page 2
+![page2-1](misc/page2-1.png)
+![page2-2-show-more](misc/page2-2-show-more.png)
+![page2-3](misc/page2-3.png)
+
+#### Page 3
+![page3-1](misc/page3-1.png)
+![page3-2](misc/page3-2.png)
 
 If you have any questions or feedbacks, please feel free to contact us. 
 #### Contact Email:
 zoeyang1030@outlook.com or benhuangqi@brandeis.edu
 #### Author: 
-Chris(Benhuang) Qi | Zoey(Qiuyi) Yang
+Chris(Benhuang) Qi | Zoey Yang
