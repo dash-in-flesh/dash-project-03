@@ -13,6 +13,7 @@ We hope you enjoy our web application. More importantly, we hope you can spend y
 pip install dash
 pip install dash-bootstrap-components
 pip install requests
+pip install pandas
 
 git clone https://github.com/dash-in-flesh/dash-project-03.git
 
