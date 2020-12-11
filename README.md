@@ -1,6 +1,5 @@
 # C&Z Movie Hub (Python II Final Project)
 
-
 In this era of information explosion, people are often lost during searching process because of an extravagant amount of information and illimitable links. 
 
 Have you ever wanted to check a movie star? After entering Wikipedia, you unknowingly spent three hours learning about the movies the actor acted, his co-actors and even the box news… At the end, you might even forget who you commenced probing from, since there are an inordinate quantity of links you can click into and you are authentically trapped in Wikipedia’s loop.
@@ -9,7 +8,18 @@ In order to offer movie lovers a more straightforward user experience, Chris and
 
 We hope you enjoy our web application. More importantly, we hope you can spend your time only on what you want to contribute to.
 
-### Project Overview:
+### How to run application locally?
+```bash
+pip install dash
+pip install requests
+
+git clone https://github.com/dash-in-flesh/dash-project-03.git
+
+cd dash-project-03
+python3 app.py
+```
+
+### Project Screen Shots:
 #### Page 1 - Home Page
 ![page1-1](misc/page1-1.png)
 ![page1-2](misc/page1-2.png)
