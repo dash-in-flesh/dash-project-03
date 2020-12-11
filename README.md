@@ -1,5 +1,6 @@
 # C&Z Movie Hub (Python II Final Project)
 
+
 In this era of information explosion, people are often lost during searching process because of an extravagant amount of information and illimitable links. 
 
 Have you ever wanted to check a movie star? After entering Wikipedia, you unknowingly spent three hours learning about the movies the actor acted, his co-actors and even the box news… At the end, you might even forget who you commenced probing from, since there are an inordinate quantity of links you can click into and you are authentically trapped in Wikipedia’s loop.
