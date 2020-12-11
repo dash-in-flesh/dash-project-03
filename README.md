@@ -11,6 +11,7 @@ We hope you enjoy our web application. More importantly, we hope you can spend y
 ## How to run application locally?
 ```bash
 pip install dash
+pip install dash-bootstrap-components
 pip install requests
 
 git clone https://github.com/dash-in-flesh/dash-project-03.git
