@@ -259,7 +259,7 @@ app.layout = html.Div([
     prevent_initial_call=True
 )
 def display_page(pathname):
-    print(pathname)
+    #print(pathname)
     if pathname == "/movie-list":
         if cache["search_query"] == "":
             return make_404_page()
@@ -271,6 +271,11 @@ def display_page(pathname):
         if cache['movie_id'] == None:
             return make_404_page()
         return make_movie_detail()
+
+    cache['search_query'] = ""
+    cache['search_results'] = []
+    cache['display_count'] = 0
+    cache['movie_id'] = None
     return make_home_page()
 
 
