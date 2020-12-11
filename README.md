@@ -7,7 +7,7 @@ Have you ever wanted to check a movie star? After entering Wikipedia, you unknow
 
 In order to offer movie lovers a more straightforward user experience, Chris and I started to work on this web application project, called C&Z Movie Hub. We have utilized Python Dash to construct the website. Thanks to TMDb, we can facilely sourced movie data using its API. Unlike TMDb, we have only listed the most paramount information about the movie, such as release date, genres, vote average, vote count, popularity and movie summary to users. Besides those information, we count reviews as an important element of movie evaluation. Therefore, we integrate this function in the movie detail page. Other than that, we intentionally didn’t include any links in our website because of our minimalism concept. 
 
-We hope you enjoy our web application. More importantly, we hope you can contribute your time only on what you want to contribute to.
+We hope you enjoy our web application. More importantly, we hope you can spend your time only on what you want to contribute to.
 
 If you have any questions or feedbacks, please feel free to contact us. 
 #### Contact Email:
