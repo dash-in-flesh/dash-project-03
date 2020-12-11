@@ -1,6 +1,4 @@
 # C&Z Movie Hub (Python II Final Project)
-#### Author: 
-Chris(Benhuang) Qi | Zoey(Qiuyi) Yang
 
 In this era of information explosion, people are often lost during searching process because of an extravagant amount of information and illimitable links. 
 
@@ -13,3 +11,5 @@ We hope you enjoy our web application. More importantly, we hope you can contrib
 If you have any questions or feedbacks, please feel free to contact us. 
 #### Contact Email:
 zoeyang1030@outlook.com or benhuangqi@brandeis.edu
+#### Author: 
+Chris(Benhuang) Qi | Zoey(Qiuyi) Yang
