@@ -10,7 +10,7 @@ In order to offer movie lovers a more straightforward user experience, Chris and
 We hope you enjoy our web application. More importantly, we hope you can spend your time only on what you want to contribute to.
 
 ### Project Overview:
-
+![page1-1](misc/page1-1.png)
 
 If you have any questions or feedbacks, please feel free to contact us. 
 #### Contact Email:
