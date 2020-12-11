@@ -8,7 +8,7 @@ In order to offer movie lovers a more straightforward user experience, Chris and
 
 We hope you enjoy our web application. More importantly, we hope you can spend your time only on what you want to contribute to.
 
-### How to run application locally?
+## How to run application locally?
 ```bash
 pip install dash
 pip install requests
@@ -19,23 +19,23 @@ cd dash-project-03
 python3 app.py
 ```
 
-### Project Screen Shots:
-#### Page 1 - Home Page
+## Project Screen Shots:
+### Page 1 - Home Page
 ![page1-1](misc/page1-1.png)
 ![page1-2](misc/page1-2.png)
 
-#### Page 2 - Movie List
+### Page 2 - Movie List
 ![page2-1](misc/page2-1.png)
 ![page2-2-show-more](misc/page2-2-show-more.png)
 ![page2-3](misc/page2-3.png)
 
-#### Page 3 - Movie Detail Page
+### Page 3 - Movie Detail Page
 ![page3-1](misc/page3-1.png)
 ![page3-2](misc/page3-2.png)
 
 If you have any questions or feedbacks, please feel free to contact us. 
 
-#### Contact Email:
+### Contact Email:
 zoeyang1030@outlook.com or benhuangqi@brandeis.edu
-#### Author: 
+### Author: 
 Chris(Benhuang) Qi | Zoey Yang
